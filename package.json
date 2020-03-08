@@ -1,0 +1,9 @@
+{
+  "name": "vxp-cli",
+  "version": "1.0.0-alpha",
+  "main": "index.js",
+  "bin": {
+    "vxp": "bin/vxp.js"
+  },
+  "license": "MIT"
+}
